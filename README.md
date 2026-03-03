@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Mihaela👋
 
 <!--
 **StitchMiha/StitchMiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Computer Engineering Student at UPB 
+💻 Strong in C/C++, Python, Networking
+
+## Technical Skills
+
+- Languages: C/C++, Python, Java
+- Systems: Linux, Networking (NAT, VLAN, GRE, IPv6)
+- Security: CTF challenges, Binary exploitation, ECB attacks
+- Graphics: OpenGL, GLSL
+- Parallel Computing: MPI
