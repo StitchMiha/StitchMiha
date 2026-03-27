@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 - Languages: C/C++, Python, Java
 - Systems: Linux, Networking (NAT, VLAN, GRE, IPv6)
-- Security: CTF challenges, Binary exploitation, ECB attacks
+- Security: CTF challenges, Binary exploitation
 - Graphics: OpenGL, GLSL
 - Parallel Computing: MPI
